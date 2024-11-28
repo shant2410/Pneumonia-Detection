@@ -1,5 +1,7 @@
 Pneumonia Detection using Convolutional Neural Networks (CNN)
 Overview
+
+
 Pneumonia is a severe lung infection that can cause significant health complications and is a leading cause of death worldwide, especially in children and older adults. Early and accurate diagnosis of pneumonia can greatly improve treatment outcomes.
 
 This project leverages deep learning techniques to automate the diagnosis of pneumonia using chest X-ray images. By utilizing a Convolutional Neural Network (CNN), specifically a pretrained VGG16 model fine-tuned for binary classification, the system can identify whether an X-ray image represents a normal lung or one affected by pneumonia.
